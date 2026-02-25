@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "installCommand": "",
+  "assets": {
+    "directory": "./",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
